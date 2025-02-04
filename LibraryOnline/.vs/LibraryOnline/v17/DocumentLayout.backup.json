@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\projeto_web\\Rocketseat\\LibraryOnline\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EADB8AF-076B-4253-B95B-6242121D0F72}|LibraryOnline.csproj|c:\\users\\lenovo\\desktop\\projeto_web\\rocketseat\\libraryonline\\controllers\\productscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EADB8AF-076B-4253-B95B-6242121D0F72}|LibraryOnline.csproj|solutionrelative:controllers\\productscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EADB8AF-076B-4253-B95B-6242121D0F72}|LibraryOnline.csproj|c:\\users\\lenovo\\desktop\\projeto_web\\rocketseat\\libraryonline\\books\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EADB8AF-076B-4253-B95B-6242121D0F72}|LibraryOnline.csproj|solutionrelative:books\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EADB8AF-076B-4253-B95B-6242121D0F72}|LibraryOnline.csproj|c:\\users\\lenovo\\desktop\\projeto_web\\rocketseat\\libraryonline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EADB8AF-076B-4253-B95B-6242121D0F72}|LibraryOnline.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsControllers.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\projeto_web\\Rocketseat\\LibraryOnline\\Controllers\\ProductsControllers.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsControllers.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\projeto_web\\Rocketseat\\LibraryOnline\\Controllers\\ProductsControllers.cs*",
+              "RelativeToolTip": "Controllers\\ProductsControllers.cs*",
+              "ViewState": "AgIAABcAAAAAAIAz6WE7wCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T17:18:27.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\projeto_web\\Rocketseat\\LibraryOnline\\Books\\Products.cs",
+              "RelativeDocumentMoniker": "Books\\Products.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\projeto_web\\Rocketseat\\LibraryOnline\\Books\\Products.cs*",
+              "RelativeToolTip": "Books\\Products.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T17:12:08.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\projeto_web\\Rocketseat\\LibraryOnline\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\projeto_web\\Rocketseat\\LibraryOnline\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T22:14:06.754Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
